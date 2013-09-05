@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Caching\Caching\bin\Debug\Caching.dll
+C:\Users\Administrator\Desktop\Caching\Caching\bin\Debug\Caching.pdb
+C:\Users\Administrator\Desktop\Caching\Caching\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Caching\Caching\obj\Debug\Caching.dll
+C:\Users\Administrator\Desktop\Caching\Caching\obj\Debug\Caching.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caching", "Caching\Caching.csproj", "{14FD1D50-4805-4C66-A016-5C8DBC27F2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{ACD898B1-37EA-4CCB-B1FB-730FBB95AC4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FD1D50-4805-4C66-A016-5C8DBC27F2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FD1D50-4805-4C66-A016-5C8DBC27F2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FD1D50-4805-4C66-A016-5C8DBC27F2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FD1D50-4805-4C66-A016-5C8DBC27F2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD898B1-37EA-4CCB-B1FB-730FBB95AC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD898B1-37EA-4CCB-B1FB-730FBB95AC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD898B1-37EA-4CCB-B1FB-730FBB95AC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD898B1-37EA-4CCB-B1FB-730FBB95AC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
